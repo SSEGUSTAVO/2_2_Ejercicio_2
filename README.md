@@ -6,7 +6,7 @@ El código Variables02_Example es un ejemplo del uso de las variables.
 
 # 3_1_Tipos_de_variables_Ejercicio_1
 
-En el siguiente ejercicio se pide que se ejecute paso a paso el programa para ver los resultados durante los cambios que se realizarán en el ejercicio.
+En el siguiente ejercicio -Variables02- se pide que se ejecute paso a paso el programa para ver los resultados durante los cambios que se realizarán en el ejercicio.
 Se ejecuta el programa sin realizar cambios.
 
 ![Ejercicio 3_0](https://user-images.githubusercontent.com/54320247/64283933-10d6ec80-cf1e-11e9-8da9-70923c913964.jpg)
