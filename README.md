@@ -1,1 +1,1 @@
-# 2_2_Ejercicio_2
+# Tipos de variables
