@@ -8,3 +8,8 @@ El código Variables02_Example es un ejemplo del uso de las variables.
 
 En el siguiente ejercicio se pide que se ejecute paso a paso el programa para ver los resultados durante los cambios que se realizarán en el ejercicio.
 Se ejecuta el programa sin realizar cambios.
+
+![Ejercicio 3_1](https://user-images.githubusercontent.com/54320247/64281746-6ceb4200-cf19-11e9-8159-f568d0e5b991.jpg)
+
+El siguiente paso es cambiar el valor de x para que cambie la salida. Se efectúan los cambios y se corre el programa, se observa que el programa fue el mismo que el anterior, así que se volvió a ejecutar el comando javac para crear un nuevo archivo class y se volvió a ejecutar el programa, esta vez mostrando los cambios realizados.
+
