@@ -8,4 +8,3 @@ El código Variables02_Example es un ejemplo del uso de las variables.
 
 En el siguiente ejercicio se pide que se ejecute paso a paso el programa para ver los resultados durante los cambios que se realizarán en el ejercicio.
 Se ejecuta el programa sin realizar cambios.
-
